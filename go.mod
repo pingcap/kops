@@ -1,4 +1,4 @@
-module k8s.io/kops
+module github.com/pingcap/kops
 
 go 1.12
 
