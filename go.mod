@@ -1,4 +1,4 @@
-module github.com/LinuxGit/kops
+module github.com/pingcap/kops
 
 go 1.12
 
